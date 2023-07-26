@@ -34,7 +34,7 @@ document.getElementById("startreset").onclick = function(){
 for(i=1;i<5;i++){
    document.getElementById("box"+i).onclick = function(){
     if(playing == true){
-        if( this.innerHTML = correctAnswer){
+        if( this.innerHTML == correctAnswer){
 
             score= score+1;
 document.getElementById("scorevalue").innerHTML = score;
