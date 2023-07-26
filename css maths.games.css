@@ -24,7 +24,7 @@ html{
 #correct{
     position:absolute;
     left:260px;
-    background-color:green;
+    background-color: green;
     color:white;
     padding:11px;
     display:none;
@@ -34,7 +34,7 @@ html{
 #wrong{
     position:absolute;
     left:100px;
-    background-color:red;
+    background-color: red;
     color:white;
     padding: 11px;
     display: none;
